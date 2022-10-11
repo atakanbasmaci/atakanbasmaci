@@ -6,4 +6,3 @@
 🌱 I’m currently learning Javascript and SQL<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=crawmoment&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=crawmoment&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
