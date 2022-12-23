@@ -5,4 +5,4 @@
 🔭 I’m sophomore at Bilkent University<br>
 🌱 I’m currently learning Javascript and SQL<br>
 
-![](https://github-readme-stats.vercel.app/api?username=crawmoment&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)
+
