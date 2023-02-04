@@ -3,6 +3,6 @@
 [![](https://visitcount.itsvg.in/api?id=crawmoment&icon=8&color=12)](https://visitcount.itsvg.in)
 
 🔭 I’m sophomore at Bilkent University<br>
-🌱 I’m currently learning Javascript and SQL<br>
+🌱 I’m currently learning C# and Unity<br>
 
 
